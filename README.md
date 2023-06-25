@@ -40,6 +40,11 @@ To get started with the Readofy, follow these steps:
 2. Install Flask using `pip install flask`
 3. Run the app.py
 
+To get started with the Jupyter Notebook, follow these steps:
+1. Download the Jupyter Notebook
+2. Install the required dependencies by running the following command: `pip install -r requirements.txt`
+3. Link to Dataset : <a> https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification </a>
+
 
 ## Contributing
 

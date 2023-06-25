@@ -21,7 +21,7 @@ The objective of this project is to develop a robust solution for identifying an
 - Building a user-friendly frontend using Flask to provide real-time fake news classification.
 
 
-##Working Demo
+## Working Demo
 <a> </a>
 
 
@@ -37,10 +37,10 @@ The objective of this project is to develop a robust solution for identifying an
 To get started with the Readofy, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/GeekProgramer/Readofy.git`
-2. Install Flask using 'pip install flask'
+2. Install Flask using `pip install flask`
 3. Run the app.py
 
 
 ## Contributing
 
-Contributions to the KITAAB project are welcome! If you have any improvements or bug fixes to suggest, please feel free to open an issue or submit a pull request.
+Contributions to the REadofy project are welcome! If you have any improvements or bug fixes to suggest, please feel free to open an issue or submit a pull request.
